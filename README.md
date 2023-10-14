@@ -10,3 +10,5 @@ O projeto envolve a criação de um aplicativo que permitirá aos usuários visu
 
 ### Função
 A função principal do aplicativo é tornar a rede Ethereum mais acessível, simplificando a interação com ela por meio de uma interface gráfica amigável em C#.
+
+Link do repositório do projeto no GitHub: https://github.com/JoaoPauloIME/Paulo
